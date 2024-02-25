@@ -1,0 +1,6 @@
+[submodule "howrah_chess_angular"]
+	path = howrah_chess_angular
+	url = https://github.com/mounitbhandari/howrah_chess_angular.git
+[submodule "howrah_chess_api"]
+	path = howrah_chess_api
+	url = https://github.com/mounitbhandari/howrah_chess_api.git
